@@ -7,18 +7,15 @@ This program takes two numbers from the user and performs:
 - Multiplication
 - Division
 
-![Task1](image.png)
-
 ## Task 2: Personalized Greeting
 This program takes the user's first and last name and prints a greeting message.
-
-![task2](image-1.png)
 
 ## How to Run
 1. Open terminal
 2. Run:
 
 ```python task1_math_operations.py```
+
 ![Task1](image.png)
 
 
